@@ -1,0 +1,39 @@
+{
+  "Groceries": [
+    {
+      "title": "chips",
+      "purchase": false,
+      "id": 1
+    },
+    {
+      "title": "oil",
+      "purchase": false,
+      "id": 2
+    },
+    {
+      "title": "coke",
+      "purchase": false,
+      "id": 3
+    },
+    {
+      "title": "icecream",
+      "purchase": false,
+      "id": 4
+    },
+    {
+      "title": "besan",
+      "purchase": false,
+      "id": 5
+    },
+    {
+      "title": "salt",
+      "purchase": false,
+      "id": 6
+    },
+    {
+      "title": "kurkure",
+      "purchase": false,
+      "id": 7
+    }
+  ]
+}
